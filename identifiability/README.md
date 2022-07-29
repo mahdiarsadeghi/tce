@@ -1,0 +1,1 @@
+This folder contains the supplementary code allowing to reproduce the structural identifiability analysis. The Maple worksheets are names as the corresponding subsections in the paper. For each worksheet, a pdf version is provided.
